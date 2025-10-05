@@ -1,6 +1,6 @@
 # movies
 
-A Movies app written in Flutter project.
+A Movies app written in Flutter.
 
 ## Getting Started
 
