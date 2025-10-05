@@ -1,6 +1,6 @@
 # movies
 
-A new Flutter project.
+A Movies app written in Flutter project.
 
 ## Getting Started
 
